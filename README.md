@@ -56,7 +56,8 @@ POST /predict
 ```
 
 ## 📸 Screenshots
-(Add UI screenshots here)
+<img width="1200" height="700" alt="project_screenshot" src="https://github.com/user-attachments/assets/529beeeb-0663-4e8f-8573-d9a9d2014355" />
+
 
 ## 📌 Future Improvements
 - Deploy backend (Render / Railway)
